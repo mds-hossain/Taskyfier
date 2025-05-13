@@ -1,0 +1,4 @@
+Bug ID,Title,Severity,Steps to Reproduce,Status
+B1,Allows empty task input,Medium,Leave input blank and press Add,Open
+B2,No exit confirmation,Low,Close app via X button,Closed
+B3,UI scales poorly,High,Run on 4K screen,Open
