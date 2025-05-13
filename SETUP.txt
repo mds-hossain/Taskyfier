@@ -1,0 +1,6 @@
+SETUP INSTRUCTIONS
+==================
+1. Open the project in Visual Studio.
+2. Build the solution (Ctrl + Shift + B).
+3. Run the application (F5).
+4. A task management UI will appear. Enter tasks and click 'Add Task'.
