@@ -1,0 +1,4 @@
+Test ID,Test Scenario,Expected Result,Actual Result,Status
+TC01,Add valid task,Task appears in list,Task appears in list,Pass
+TC02,Add empty task,No task should be added,Task added,Fail
+TC03,Close app,App should close without error,Closes normally,Pass
