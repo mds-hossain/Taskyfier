@@ -50,4 +50,4 @@ A **case study** documenting the **UX/UI** design process and **QA methodology**
 This project is licensed under the MIT License. See the **[LICENSE.md](LICENSE.md)** file for more information.
 
 ## Contact
-For any questions, feedback, or suggestions, feel free to reach out to me at [Your Email] or visit my [GitHub](https://github.com/yourprofile).
+For any questions, feedback, or suggestions, feel free to reach out to me or visit my [GitHub]((https://github.com/mds-hossain/)).
